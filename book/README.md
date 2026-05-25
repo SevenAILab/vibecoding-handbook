@@ -1,0 +1,40 @@
+# 分章阅读
+
+这里是《VibeCoding 实战手册》的分章阅读版。
+
+- [EPUB 下载](../ebook/vibecoding-handbook.epub)
+
+## 目录
+
+- [前言](chapters/00-preface.md)
+- [准备篇 · 阅读准备：把工具备齐](chapters/00-preparation.md)
+- [第一章 · 玩起来：15 分钟发布你的第一个网页](chapters/01-play.md)
+- [第二章 · 回看：你刚做的到底是什么？](chapters/02-look-back.md)
+- [第三章 · 定锚：选路线、找用户、写开战卡](chapters/03-battle-card.md)
+- [第四章 · 筛选：这个想法值不值得做](chapters/04-validate.md)
+- [第五章 · 定：把想法翻译成 AI 能执行的任务](chapters/05-define.md)
+- [第六章 · 生：第一版要快，不要完美](chapters/06-generate.md)
+- [第七章 · 修：别让 AI 猜，给它证据](chapters/07-modify.md)
+- [第八章 · 验：看不出对错，AI 就在帮倒忙](chapters/08-verify.md)
+- [第九章 · 发：不上线就没有真实世界](chapters/09-publish.md)
+- [第十章 · 察：上线后看人怎么真实使用](chapters/10-observe.md)
+- [第十一章 · 工具梯度：Lovable → Cursor / Codex → Claude Code](chapters/11-tool-gradient.md)
+- [第十二章 · 协议层：prompt 是临时话，Rules 是长期合同](chapters/12-rules.md)
+- [第十三章 · 互审：让一个 AI 挑另一个 AI 的漏洞](chapters/13-cross-review.md)
+- [第十四章 · 命名与首屏：用户 3 秒看懂什么](chapters/14-naming-landing.md)
+- [第十五章 · 风格：别让 AI 给你科技紫](chapters/15-style.md)
+- [第十六章 · 数据库与登录：让产品记住用户](chapters/16-database-auth.md)
+- [第十七章 · Bug 不是灾难，是路线牌](chapters/17-bug.md)
+- [第十八章 · 实战 1：两天做出一个官网](chapters/18-case-website.md)
+- [第十九章 · 实战 2：一周做出一个微信小程序](chapters/19-case-miniprogram.md)
+- [第二十章 · 实战 3：一个轻 SaaS 的闭环](chapters/20-case-saas.md)
+- [第二十一章 · 实战 4：行业平台与 Agent Demo](chapters/21-case-platform-agent.md)
+- [第二十二章 · 收钱：第一笔钱从哪里来](chapters/22-money.md)
+- [第二十三章 · 流量：冷启动渠道与 GEO](chapters/23-traffic.md)
+- [第二十四章 · 数据与迭代：看懂但别被绑架](chapters/24-data-iteration.md)
+- [第二十五章 · 毕业：90 天发布计划](chapters/25-graduation.md)
+- [后记](chapters/99-afterword.md)
+- [附录 A · 全书工具索引](chapters/appendix-a-tools.md)
+- [附录 B · 需求验证工具箱](chapters/appendix-b-validation.md)
+- [附录 C · SaaS 闭环与收钱技术清单](chapters/appendix-c-saas-checklist.md)
+- [附录 D · 延伸学习资源](chapters/appendix-d-learning.md)
